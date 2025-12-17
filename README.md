@@ -45,3 +45,30 @@ Amaç, konut fiyatlarını etkileyen temel ekonomik göstergeleri analiz etmek v
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
+
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+- EVDS API (TCMB)
+
+---
+
+## 🚧 Proje Durumu
+
+Bu proje **aktif olarak geliştirilmektedir**.  
+Özellikle İstanbul konut piyasasına yönelik tahminleme modelleri ilerleyen aşamalarda eklenecektir.
+
+---
+
+## 🔮 Planlanan Geliştirmeler
+
+- İstanbul özelinde veri filtreleme ve segmentasyon  
+- Özellik mühendisliği (faiz, kredi, enflasyon etkileri)  
+- Regresyon ve zaman serisi tabanlı tahmin modelleri  
+- Model performans değerlendirmeleri  
+- Görselleştirme ve sonuç yorumlama
+
+---
+
+
