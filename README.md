@@ -28,7 +28,7 @@ Amaç, konut fiyatlarını etkileyen temel ekonomik göstergeleri analiz etmek v
 ## 🧠 Veri Bilimi Yaklaşımı
 
 - Veri toplama (API)
-- Veri temizleme ve özellik mühendisliği
+- Veri temizleme ve feature engineering
 - Keşifsel veri analizi (EDA)
 - Zaman serisi analizi
 - Tahmin modelleri (ilerleyen aşamalarda)
@@ -64,7 +64,7 @@ Bu proje **aktif olarak geliştirilmektedir**.
 ## 🔮 Planlanan Geliştirmeler
 
 - İstanbul özelinde veri filtreleme ve segmentasyon  
-- Özellik mühendisliği (faiz, kredi, enflasyon etkileri)  
+- Feature engineering (faiz, kredi, enflasyon etkileri)  
 - Regresyon ve zaman serisi tabanlı tahmin modelleri  
 - Model performans değerlendirmeleri  
 - Görselleştirme ve sonuç yorumlama
